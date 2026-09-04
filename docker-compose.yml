@@ -1,6 +1,6 @@
 services:
   web:
     build: .
-    container_name: myapp
+    container_name: appmy
     ports:
       - "8000:8000"
